@@ -5,7 +5,7 @@ const todo_add_btn = document.getElementById('todo_add_btn');
 const todo_input = document.querySelector('#todo_input');
 
 const TEXT_MAX_LENGTH = 50;
-const TEXT_MIN_LENGTH = 5;
+const TEXT_MIN_LENGTH = 1;
 
 window.onload = e => {
 
